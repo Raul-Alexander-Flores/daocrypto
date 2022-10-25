@@ -370,9 +370,7 @@ export default function Home() {
           </div>
           {renderTabs()}
         </div>
-        <div>
-          <img className={styles.image} src="/cryptodevs/0.svg" />
-        </div>
+      
       </div>
 
       <footer className={styles.footer}>
